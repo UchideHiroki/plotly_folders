@@ -1,0 +1,2 @@
+# plotly_folders
+plotlyで作成したhtmlファイルを置いておく場所
